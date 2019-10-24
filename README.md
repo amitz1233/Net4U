@@ -1,1 +1,2 @@
-# I created idan the king
+#First step:
+install JRE & JDK
